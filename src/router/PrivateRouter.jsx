@@ -8,4 +8,4 @@
 //   )
 // }
 
-// export default PrivateRouter
+// export default PrivateRout
